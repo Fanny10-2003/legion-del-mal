@@ -6,6 +6,7 @@
 4. Brainiac
 5. Harley Quinn
 6. darksie
+7. otro villano
 
 #Notas
 notas de modificaionces etc
