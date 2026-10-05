@@ -22,9 +22,9 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 📁 miembros/        → Fichas de cada miembro activo
 📁 guaridas/        → Ubicaciones y estado de nuestras bases
 📁 inteligencia/    → Expedientes de los héroes enemigos
+📁 logs/            → Registros del sistema
 📄 misiones.yaml    → Estado global de todas las misiones
-nuevas misiones
-readMe,md documentacion princiapl del directorio
+📄 README.md        → Documentación principal del directorio
 
 ```
 
