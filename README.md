@@ -6,9 +6,9 @@
 ![Último commit](https://img.shields.io/github/last-commit/Fanny10-2003/legion-del-mal)
 ![Licencia](https://img.shields.io/github/license/Fanny10-2003/legion-del-mal?cacheSeconds=60)
 
-# 🦹‍♂️ La Legión Del Mal
+# 🦹‍♂️ La Legión Del Mal de los gatos
 
-> _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones."_
+> _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones. y con gatos miaujajaja"_
 > — Lex Luthor, fundador
 
 ## ¿Quiénes somos?
