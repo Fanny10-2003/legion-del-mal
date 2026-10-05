@@ -11,11 +11,7 @@
 > _"El mundo no se conquista con fuerza bruta, se conquista con un buen plan y control de versiones. y con gatos miaujajaja"_
 > — Lex Luthor, fundador
 
-<<<<<<< HEAD
-## ¿Quiénes somos?
-||||||| parent of 29490b1 (fix: resolver conflicto en qines somos)
-## ¿Quiénes somos? - Desde local
-=======
+
 ## ¿Quiénes somos? - Desde local y remoto
 >>>>>>> 29490b1 (fix: resolver conflicto en qines somos)
 
