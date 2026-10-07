@@ -5,3 +5,8 @@ Spiderman es un estudiante que adquiere sus poderes tras ser mordido por una ara
 ## Enemigos 
 -Doctor Octupus
 -Green Goblin
+
+## Conocidos de spiderman
+-Tia may
+-tio ben
+- Mary jane
