@@ -11,7 +11,7 @@ jobs:
               run: echo "Hola, soy Lex Luthor, el lider de la Legion del Mal."
 
             - name: Reporte de indentidad
-                run: |
+              run: |
                     echo "Reporte de identidad"
                     echo "--------------------"
                     echo ""
