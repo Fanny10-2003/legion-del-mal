@@ -1,0 +1,23 @@
+name: Acceso a la fortaleza
+
+on: push
+
+jobs:   
+    acceso-a-la-fortaleza:
+        runs-on: ubuntu-latest
+
+        steps:
+            - name: El agente se presenta
+              run: echo "Hola, soy Lex Luthor, el lider de la Legion del Mal."
+
+            - name: Reporte de indentidad
+              run: |
+                  echo "Reporte de identidad"
+                  echo "--------------------"
+                  echo ""
+                  echo "Nombre clave: ${{ github.actor}} llega a la fortaleza."
+                  echo "Contexto de GitHub"
+                  echo "Buscar los archivos de la fortaleza"
+                  ls -la
+                  echo "X Pero que es esto? Hay un archivo secreto llamado 'fortaleza-secreta.txt'!"
+    
